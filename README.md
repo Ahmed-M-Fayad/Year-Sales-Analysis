@@ -37,4 +37,4 @@ Key components include:
 Clone the repository and run the provided Python scripts with the datasets.
 
 ```bash
-git clone https://github.com/yourusername/repositoryname.git
+git clone https://github.com/Ahmed-M-Fayad/Year-Sales-Analysis.git
